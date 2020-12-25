@@ -1,0 +1,18 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: featured-img
+  label: featured-img
+- type: list
+  name: categories
+  label: categories
+pages:
+- _posts/2020-12-21-launching-blog-ngopibrek.md
