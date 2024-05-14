@@ -4,7 +4,7 @@ author: NgopiBrek # You :P
 description: > # Meta description of Homepage
   NgopiBrek adalah sebutan dari ngopi sambil ngoprek, melakukan aktivitas ngoding sambil berlajar dari berbagai repo github.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ngopibrek.wildanfauzy.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ngopibrek.eu.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -24,7 +24,7 @@ tagline: >
 
 hero_img: posts/tentang.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: admin@wildanfauzy.com # email for form submission
+email: admin@ngopibrek.eu.org # email for form submission
 
 twitter_username: NgopiBrek # replace with your_twitter_username or comment to remove link from footer
 github_username:  NgopiBrek # replace with your_github_username or comment to remove link from footer
